@@ -5,6 +5,6 @@ Simple code for visualizing convolutional filters as sequence logos.
 
 ### Example useage
 
-python seq_logos.py -f <input csv filename containing 4xN array> -o <output image filename> -s <stretch factor for y-axis> -d <delimiter of csv>
+python seq_logos.py -f <input_csv_filename_containing_4xN_array> -o <output_image_filename> -s <stretch_factor_for_y-axis> -d <delimiter_of_csv>
 
 python seq_logos.py -f input.csv -o output.eps -s 2 -d ,
